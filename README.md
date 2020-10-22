@@ -1,5 +1,5 @@
 # hosts
-Extension to the Steven Black's hosts file with my own selection of fraud, scam and gambling sites.
+Extension to the [Steven Black's hosts](https://github.com/StevenBlack/hosts) file with my own selection of fraud, scam and gambling sites.
 
 Mainly used as a gravity list for my personal [Pi-hole](https://pi-hole.net/) server located at https://connect.modern-dev.com
 
