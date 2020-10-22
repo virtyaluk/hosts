@@ -1,0 +1,33 @@
+# Title: Extension to the Steven Black's hosts file with my own selection
+# of fraud, scam and gambling sites.
+#
+# Mainly used as a gravity list for my personal Pi-hole server
+# located at https://connect.modern-dev.com
+#
+# Date: 23 October 2020
+# Number of unique domains: To Be Updated
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/virtyaluk/hosts/main/hosts
+# Project home page: https://github.com/virtyaluk/hosts
+#
+# ===============================================================
+
+#=====================================
+# Hosts contributed by Bohdan Shtepan
+# https://modern-dev.com
+
+0.0.0.0 pm.com.ua
+0.0.0.0 parimatch.ru
+0.0.0.0 parimatch.global
+0.0.0.0 favbet.com
+0.0.0.0 favorit.com.ua
+0.0.0.0 favbet.ru
+0.0.0.0 favbet.by
+0.0.0.0 fan-sport.org
+0.0.0.0 marathonbet.com
+0.0.0.0 betandyou.com
+0.0.0.0 betwinner1.com
+0.0.0.0 melbet.com
+0.0.0.0 sports.williamhill.com
+0.0.0.0 pin-upbet-ua.com
+0.0.0.0 routeumber.com
